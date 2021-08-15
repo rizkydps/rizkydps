@@ -1,7 +1,8 @@
 ## Hey 👋, This is Rizky DPS
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rzkydps@gmail.com)](mailto:rzkydps@gmail.com)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=telegram&logoColor=white&link=https://t.me/luiz740)](https://t.me/rizkydps)
-[![Linkedin Badge](https://img.shields.io/badge/-rizkydps-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkydps/)](https://www.linkedin.com/in/rizkydps/) [![Github Badge](https://img.shields.io/badge/-rizkydps-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkydps/)](https://www.github.com/rizkydps/)  <p> <img src=https://komarev.com/ghpvc/?username=rizkydps alt=rizkydps /> </p>
+[![Linkedin Badge](https://img.shields.io/badge/-rizkydps-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkydps/)](https://www.linkedin.com/in/rizkydps/) [![Github Badge](https://img.shields.io/badge/-rizkydps-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkydps/)](https://www.github.com/rizkydps/)  
+<p> <img src="https://komarev.com/ghpvc/?username=rizkydps" alt="rizkydps" /> </p>
 
 
 
