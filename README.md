@@ -11,7 +11,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydps&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rizkydps/github-readme-stats)
 
 
-## 🛠 Tech Language & Technology
+## 🛠 Language & Technology
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
