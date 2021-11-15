@@ -4,6 +4,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-rizkydps-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rizkydps/)](https://www.linkedin.com/in/rizkydps/) [![Github Badge](https://img.shields.io/badge/-rizkydps-grey?style=flat&logo=github&logoColor=white&link=https://github.com/rizkydps/)](https://www.github.com/rizkydps/)  
 <p> <img src="https://komarev.com/ghpvc/?username=rizkydps" alt="rizkydps" /> </p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myusername&theme=tokyonight)
+
 
 ## 🔥 Language & Technology
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
