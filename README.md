@@ -5,7 +5,8 @@
 <p> <img src="https://komarev.com/ghpvc/?username=rizkydps" alt="rizkydps" /> </p>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydps&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/rizkydps/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rizkydps)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rizkydps&show_icons=true&theme=github_dark)
 
 
